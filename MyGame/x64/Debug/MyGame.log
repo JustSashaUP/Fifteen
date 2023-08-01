@@ -1,0 +1,23 @@
+﻿  Scene.cpp
+E:\Project\MyGame\Scene.cpp(18,107): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\MyGame\Scene.cpp(22,117): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\MyGame\Scene.cpp(27,113): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\MyGame\Scene.cpp(30,113): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\MyGame\Scene.cpp(33,113): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\MyGame\Scene.cpp(84,83): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\MyGame\Scene.cpp(88,75): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\MyGame\Scene.cpp(89,75): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\MyGame\Scene.cpp(90,75): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\MyGame\Scene.cpp(216,33): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\Project\MyGame\Scene.cpp(216,26): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\Project\MyGame\Scene.cpp(240,62): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\MyGame\Scene.cpp(273,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Project\MyGame\Scene.cpp(285,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Project\MyGame\Scene.cpp(288,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Project\MyGame\Scene.cpp(302,30): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Project\MyGame\Scene.cpp(306,30): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Project\MyGame\Scene.cpp(318,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Project\MyGame\Scene.cpp(319,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Project\MyGame\Scene.cpp(351,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Project\MyGame\Scene.cpp(352,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  MyGame.vcxproj -> E:\Project\MyGame\x64\Debug\MyGame.exe
