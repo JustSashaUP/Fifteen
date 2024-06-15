@@ -1,5 +1,5 @@
 # Ffiteen-game
-Coursework on the topic of the game "fifteen" using the FreeGlut (OpenGL) on C++ language
+Coursework on the Game "Fifteen" Using FreeGlut (OpenGL) in C++
 
 First of all you need download FreeGlut library on your PC:
 1. https://www.transmissionzero.co.uk/software/freeglut-devel/ Click here (01.08.23);
